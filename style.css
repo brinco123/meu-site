@@ -48,3 +48,39 @@ line-height: 58px;
 
 color: #000000;
 }
+
+h1{
+  position: absolute;
+width: 778px;
+height: 331px;
+left: 700px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 58px;
+
+color: #000000;
+
+}
+
+h2{
+  position: absolute;
+width: 481px;
+height: 621px;
+left: 1440px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 58px;
+
+color: #000000;
+
+}
+
+
